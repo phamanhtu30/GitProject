@@ -1,0 +1,1 @@
+git là một phần mềm quản lý mã nguồn phân tán. Một trong những công cụ quan trọng của lập viên giúp họ quản lý các dữ liệu quan trọng
